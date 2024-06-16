@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Solutions {
+public class Problem5 {
 
    public static boolean isElligible(int age) {
 

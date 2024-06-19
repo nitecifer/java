@@ -6,7 +6,7 @@ public class UdateBit {
         // oper=1 : set oper = 0 : clear 
 
         int n = 5; //0101
-        int pos = 2;
+        int pos = 1;
         int bitMask = 1<<pos;
 
         if (oper == 0) {

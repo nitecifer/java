@@ -4,7 +4,7 @@ public class Exercise1 {
         int sum = 0;
         for(int i:my_array)
             sum += i;
-        System.out.println(sum);
+        System.out.println("the sum is " + sum);
     }
     
 }

@@ -4,6 +4,7 @@ public class Divide {
         int b=3;
         int c=a/b;
         System.out.println(c);
+       
     }
     
 }

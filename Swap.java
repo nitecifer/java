@@ -10,12 +10,10 @@ public class Swap {
           
           
           System.out.println("Before swapping : a, b = " + a + ", " + b);
-          
-          
+        
           temp = a;
           a = b;
           b = temp;   
-          
           
           System.out.println("After swapping : a, b = " + a + ", " + b);
         }
